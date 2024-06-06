@@ -1,3 +1,21 @@
+<table>
+  <tr>
+    <th colspan="2">DATA MAHASISWA</th>
+  </tr>
+  <tr>
+    <td>Nama</td>
+    <td>Roswanda Nuraini</td>
+  </tr>
+  <tr>
+    <td>NIM</td>
+    <td>312210328</td>
+  </tr>
+  <tr>
+    <td>Kelas</td>
+    <td>TI.22.A3</td>
+  </tr>
+</table>
+
 # Praktikum 7: API
 ## Apa itu REST API?
 Representational State Transfer (REST) adalah salah satu desain arsitektur Application Programming Interface (API). API sendiri merupakan interface yang menjadi perantara yang menghubungkan satu aplikasi dengan aplikasi lainnya. REST API berisi aturan untuk membuat web service dengan membatasi hak akses client yang mengakses API. Kenapa harus demikian? Jika dianalogikan sebagai restoran, REST API adalah daftar menu. Pelanggan hanya bisa memesan sesuai daftar menu meskipun si koki (server) bisa membuatkan pesanan tersebut.
